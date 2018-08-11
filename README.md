@@ -1,5 +1,5 @@
 # Animated Pie Chart
-Animated Pie Chart with Framer.js and Snap.svg
+With Framer.js and Snap.svg
 - http://framerjs.com
 - http://snapsvg.io
 
